@@ -111,17 +111,17 @@ nav .icon-burger .line {
     background-blend-mode: multiply;
 }
 .container .section:nth-child(1){
-    background: #FCE2DB url('1.jpg');
+    background: #FCE2DB url('assets/images/anime.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(2){
-    background: #0A043C url('6.jfif');
+    background: #0A043C url('assets/images/shiny_setup.jfif');
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(3){
-    background: #003545 url('7.jpeg');
+    background: #003545 url('assets/images/technologies.jpeg');
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -129,17 +129,17 @@ nav .icon-burger .line {
     align-items: center;
 }
 .container .section:nth-child(4){
-    background: #162447 url('8.jpg');
+    background: #162447 url('assets/images/delusional_programmer.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(5){
-    background: #FA7D09 url('9.jfif');
+    background: #FA7D09 url('assets/images/processor.jfif');
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(6){
-    background: #FF1E56 url('11.jfif');
+    background: #FF1E56 url('assets/images/social_medias.jfif');
     background-size: cover;
     background-attachment: fixed;
 }
